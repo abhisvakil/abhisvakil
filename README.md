@@ -74,10 +74,18 @@ I'm a **Master's student at Carnegie Mellon University (MISM '25)**, passionate 
 
 ## 📚 Research & Publications  
 ### **Indian Space Research Organisation (ISRO) - Researcher (Micro Sensing & Radar Tech)**  
-- Developed a **Wiener Deconvolution Model**, improving satellite image resolution **by 10x** using GNSS-R & SAR fusion.  
+- Developed a **Wiener Deconvolution Model**, improving satellite image resolution **by 10x** using GNSS-R & SAR fusion.
+- Applied **deep learning techniques** to enhance satellite imagery and terrain mapping.
 
+📄 Featured Publication: Comparative Analysis of KF, EKF, and Particle Filter for Navigation in Autonomous Vehicles
+	•	Conducted an in-depth study on Kalman Filter (KF), Extended Kalman Filter (EKF), and Particle Filter to evaluate their efficiency in autonomous vehicle navigation.
+	•	Key Contributions:
+	•	Analyzed real-time localization accuracy under various sensor noise conditions.
+	•	Proposed an optimized sensor fusion framework, integrating LiDAR & GPS data to improve predictive accuracy.
+	•	Demonstrated that Particle Filters outperform EKF in nonlinear environments but at a higher computational cost.
+	•	The study was selected at the state level for its innovative approach to autonomous system optimization.
 ---
-
+🔗 Read More: [Google Scholar Profile](tps://scholar.google.com/citations?user=0z8ZFQoAAAAJ&hl=en)
 ## 🚀 Competitions & Hackathons  
 - **Kaggle Competitions** → Optimized **CNN transformer models** for real-world AI applications.  
 - **Startup Case Competition** → Developed an **AI-driven ad recommendation system** using **computer vision & sentiment analysis**.  

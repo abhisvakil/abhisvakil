@@ -85,7 +85,7 @@ I'm a **Master's student at Carnegie Mellon University (MISM '25)**, passionate 
 	•	Demonstrated that Particle Filters outperform EKF in nonlinear environments but at a higher computational cost.
 	•	The study was selected at the state level for its innovative approach to autonomous system optimization.
 ---
-🔗 Read More: [Google Scholar Profile](tps://scholar.google.com/citations?user=0z8ZFQoAAAAJ&hl=en)
+🔗 Read More: [Google Scholar Profile](https://scholar.google.com/citations?user=0z8ZFQoAAAAJ&hl=en)
 ## 🚀 Competitions & Hackathons  
 - **Kaggle Competitions** → Optimized **CNN transformer models** for real-world AI applications.  
 - **Startup Case Competition** → Developed an **AI-driven ad recommendation system** using **computer vision & sentiment analysis**.  
@@ -95,5 +95,5 @@ I'm a **Master's student at Carnegie Mellon University (MISM '25)**, passionate 
 
 ## 📫 Connect with Me  
 📩 Email: **abhisvakil@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhisvakil/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-vakil-2764bb227)  
 💻 [GitHub](https://github.com/abhisvakil)  
